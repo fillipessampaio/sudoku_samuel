@@ -32,17 +32,17 @@ A modern and fun Sudoku app developed with Flutter, featuring different difficul
 
 ## 📱 Screenshots
 
-![Home Screen](assets/images/home_screen_mario_theme.jpeg)
+<img src="assets/images/home_screen_mario_theme.jpeg" width="400" alt="Home screen with difficulty and game mode selection">
 *Home screen with difficulty and game mode selection*
 
-![Game Screen](assets/images/game_screen_9x9_numbers.jpeg)
+<img src="assets/images/game_screen_9x9_numbers.jpeg" width="400" alt="Game screen with interactive board">
 *Game screen with interactive board*
 
-![Game Screen](assets/images/game_screen_9x9_emojis.jpeg)
+<img src="assets/images/game_screen_9x9_emojis.jpeg" width="400" alt="Game screen with interactive board using emojis">
 *Game screen with interactive board using emojis*
 
-![Other theme](assets/images/home_screen_lego_theme.jpeg)
-![Other theme](assets/images/home_screen_balls_theme.jpeg)
+<img src="assets/images/home_screen_lego_theme.jpeg" width="400" alt="Lego theme">
+<img src="assets/images/home_screen_balls_theme.jpeg" width="400" alt="Balls theme">
 
 ## 📦 Project Structure
 
